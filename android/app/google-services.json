@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62084662778",
+    "project_id": "user-info-pdf",
+    "storage_bucket": "user-info-pdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62084662778:android:68e69fc7602542ca8e5043",
+        "android_client_info": {
+          "package_name": "com.example.user_info_pdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlezClz4bLZV3vm85XXb37j_6lMfNaBa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
