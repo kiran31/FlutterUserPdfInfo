@@ -15,7 +15,7 @@ The PDF Manager App is a Flutter application that allows users to input their pe
 
 1. **Clone the repository**:
     ```bash
-    git remote add origin https://github.com/kiran31/FlutterUserPdfInfo.git
+    git clone https://github.com/kiran31/FlutterUserPdfInfo.git
     ```
 
 2. **Navigate to the project directory**:
